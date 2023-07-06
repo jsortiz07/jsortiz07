@@ -1,5 +1,5 @@
 <h1 align="center">Te deseo un excelente dia 👋, I'm Johan Ortiz</h1>
-<h3 align="center">Estudiante de la UCC🌟.</h3> <img src="https://github.com/jsortiz07/jsortiz07/blob/main/logo-ucc.ico" alt="UCC" /> 
+<h3 align="center">Estudiante de la UCC🌟. <img src="https://github.com/jsortiz07/jsortiz07/blob/main/logo-ucc.ico" alt="UCC" /> </h3> 
 
 <br>
 
