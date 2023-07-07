@@ -24,7 +24,7 @@
 <p align="left">
 
     <!-- Perfil de linkenind -->
-  <a href="https://www.linkedin.com/in/johan-sebastian-ortiz-lopez-aa977b151" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/johan-sebastian-ortiz-lopez-aa977b151" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 
